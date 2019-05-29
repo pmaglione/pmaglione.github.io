@@ -9,7 +9,7 @@ layout: default
 - [StackOverflow](https://stackoverflow.com/users/story/7933089)
 - [GitHub](https://github.com/pmaglione)
 
-
+- [My CV](./Pedro_Maglione_CV.pdf)
 
 ```
 Have a nice day :)
